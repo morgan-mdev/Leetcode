@@ -1,6 +1,6 @@
 # LeetCode Solutions by Mark Morgan
 
-This repository contains my LeetCode solutions with explanations, grouped by difficulty and algorithm types.
+This repository contains my LeetCode solutions with explanations, grouped by difficulty and topics. Click on the links to view problem's solution.
 
 ---
 

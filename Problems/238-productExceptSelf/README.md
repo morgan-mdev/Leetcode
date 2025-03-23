@@ -51,19 +51,25 @@ Follow up: Can you solve the problem in O(1) extra space complexity? (The output
 
 ### Standard Solution
 
-| Time | Space |
-| ---- | ----- |
-| O(n) | O(n)  |
+| Metric | Complexity |
+| ------ | ---------- |
+| Time   | `O(n)`     |
+| Space  | `O(n)`     |
 
 ## Optimized Solution
 
-| Time | Space |
-| ---- | ----- |
-| O(n) | O(1)  |
+| Metric | Complexity |
+| ------ | ---------- |
+| Time   | `O(n)`     |
+| Space  | `O(1)`     |
 
 ---
 
 ## Solution
 
-- [Solution](solution.js)
-- [Optimized Solution](optimalSolution.js)
+- [JavaScript Solution](solution.js)
+- [Optimized JavaScript Solution](optimalSolution.js)
+
+## Key Takeaways
+
+- We can calculate prefix and postfix in the same array to save space
