@@ -4,9 +4,9 @@
 
 `Easy`
 
-### Algorithms Types:
+### Topics:
 
-`Prefix Product`
+`Array`, `Prefix Sum`
 
 ---
 
