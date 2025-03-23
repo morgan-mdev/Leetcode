@@ -6,9 +6,10 @@ This repository contains my LeetCode solutions with explanations, grouped by dif
 
 ## Easy Problems:
 
-| #                                      | Problem                                               | Topics            |
-| -------------------------------------- | ----------------------------------------------------- | ----------------- |
-| [217](Problems/217-containsDuplicate/) | [Contains Duplicate](Problems/217-containsDuplicate/) | [`Array`](#array) |
+| #                                      | Problem                                               | Topics                          |
+| -------------------------------------- | ----------------------------------------------------- | ------------------------------- |
+| [217](Problems/217-containsDuplicate/) | [Contains Duplicate](Problems/217-containsDuplicate/) | [`Array`](#array)               |
+| [125](Problems/125-validPalindrome/)   | [Valid Palindrome](Problems/125-validPalindrome/)     | [`Two Pointers`](#two-pointers) |
 
 ## Medium Problems:
 
@@ -39,3 +40,7 @@ This repository contains my LeetCode solutions with explanations, grouped by dif
 ### Hash Set
 
 - [128. Longest Consecutive Sequence](Problems/128-longestConsecutive/) - `Medium`
+
+### Two Pointers
+
+- [125. Valid Palindrome](Problems/125-validPalindrome/) - `Easy`

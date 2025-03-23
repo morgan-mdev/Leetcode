@@ -22,10 +22,10 @@
 
 ## Time and Space Complexity
 
-| Metric | Complexity           |
-| ------ | -------------------- |
-| Time   | `{time complexity}`  |
-| Space  | `{space complexity}` |
+| Metric | Complexity |
+| ------ | ---------- |
+| Time   | `O()`      |
+| Space  | `O()`      |
 
 ---
 
