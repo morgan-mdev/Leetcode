@@ -30,6 +30,7 @@ This repository contains my LeetCode solutions with explanations, grouped by dif
 
 - [217. Contains Duplicate](Problems/217-containsDuplicate/) - `Easy`
 - [238. Product of Array Except Self](Problems/238-productExceptSelf/) - `Medium`
+- [128. Longest Consecutive Sequence](Problems/128-longestConsecutive/) - `Medium`
 
 ### Prefix Sum
 

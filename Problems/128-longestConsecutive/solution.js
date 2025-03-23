@@ -2,7 +2,7 @@ function longestConsecutive(nums) {
   const uniqueNums = new Set(nums);
 
   let longest = 0;
-  for (let num of nums) {
+  for (let num of uniqueNums) {
     // Check if it is the start of a sequence
     if (uniqueNums.has(num - 1)) continue;
     let length = 1;
