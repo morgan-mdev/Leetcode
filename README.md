@@ -6,15 +6,16 @@ This repository contains my LeetCode solutions with explanations, grouped by dif
 
 ## Easy Problems:
 
-| #                                      | Problem                                               | Topics              |
-| -------------------------------------- | ----------------------------------------------------- | ------------------- |
-| [217](Problems/217-containsDuplicate/) | [Contains Duplicate](Problems/217-containsDuplicate/) | [`Arrays`](#arrays) |
+| #                                      | Problem                                               | Topics            |
+| -------------------------------------- | ----------------------------------------------------- | ----------------- |
+| [217](Problems/217-containsDuplicate/) | [Contains Duplicate](Problems/217-containsDuplicate/) | [`Array`](#array) |
 
 ## Medium Problems:
 
-| #                                      | Problem                                                         | Topics                                            |
-| -------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------- |
-| [238](Problems/238-productExceptSelf/) | [Product of Array Except Self](Problems/238-productExceptSelf/) | [`Arrays`](#arrays), [`Prefix Sum`](#prefix-sums) |
+| #                                       | Problem                                                          | Topics                                         |
+| --------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------- |
+| [238](Problems/238-productExceptSelf/)  | [Product of Array Except Self](Problems/238-productExceptSelf/)  | [`Array`](#array), [`Prefix Sum`](#prefix-sum) |
+| [128](Problems/128-longestConsecutive/) | [Longest Consecutive Sequence](Problems/128-longestConsecutive/) | [`Array`](#array), [`Hash Set`](#hash-set)     |
 
 ## Hard Problems:
 
@@ -25,11 +26,15 @@ This repository contains my LeetCode solutions with explanations, grouped by dif
 
 ## Problems by Topics:
 
-### Arrays
+### Array
 
 - [217. Contains Duplicate](Problems/217-containsDuplicate/) - `Easy`
 - [238. Product of Array Except Self](Problems/238-productExceptSelf/) - `Medium`
 
-### Prefix Sums
+### Prefix Sum
 
 - [238. Product of Array Except Self](Problems/238-productExceptSelf/) - `Medium`
+
+### Hash Set
+
+- [128. Longest Consecutive Sequence](Problems/128-longestConsecutive/) - `Medium`
