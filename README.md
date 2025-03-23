@@ -6,10 +6,11 @@ This repository contains my LeetCode solutions with explanations, grouped by dif
 
 ## Easy Problems:
 
-| #                                      | Problem                                               | Topics                          |
-| -------------------------------------- | ----------------------------------------------------- | ------------------------------- |
-| [217](Problems/217-containsDuplicate/) | [Contains Duplicate](Problems/217-containsDuplicate/) | [`Array`](#array)               |
-| [125](Problems/125-validPalindrome/)   | [Valid Palindrome](Problems/125-validPalindrome/)     | [`Two Pointers`](#two-pointers) |
+| #                                      | Problem                                                     | Topics                          |
+| -------------------------------------- | ----------------------------------------------------------- | ------------------------------- |
+| [217](Problems/217-containsDuplicate/) | [Contains Duplicate](Problems/217-containsDuplicate/)       | [`Array`](#array)               |
+| [125](Problems/125-validPalindrome/)   | [Valid Palindrome](Problems/125-validPalindrome/)           | [`Two Pointers`](#two-pointers) |
+| [167](Problems/167-twoSum2/)           | [Two Sum II - Input Array Is Sorted](Problems/167-twoSum2/) | [`Two Pointers`](#two-pointers) |
 
 ## Medium Problems:
 
@@ -44,3 +45,4 @@ This repository contains my LeetCode solutions with explanations, grouped by dif
 ### Two Pointers
 
 - [125. Valid Palindrome](Problems/125-validPalindrome/) - `Easy`
+- [167. Two Sum II - Input Array Is Sorted](Problems/167-twoSum2/) - `Easy`
