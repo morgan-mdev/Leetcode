@@ -11,9 +11,9 @@ This repository contains my LeetCode solutions with explanations, grouped by dif
 
 ## Medium Problems:
 
-| #   | Problem                      | Topics                |
-| --- | ---------------------------- | --------------------- |
-| 238 | Product of Array Except Self | `Array`, `Prefix Sum` |
+| #                                      | Problem                                                         | Topics                                            |
+| -------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------- |
+| [238](Problems/238-productExceptSelf/) | [Product of Array Except Self](Problems/238-productExceptSelf/) | [`Arrays`](#arrays), [`Prefix Sum`](#prefix-sums) |
 
 ## Hard Problems:
 
@@ -26,8 +26,8 @@ This repository contains my LeetCode solutions with explanations, grouped by dif
 
 ### Arrays
 
-- [238. Product of Array Except Self](Problems/238-productExceptSelf/)
+- [238. Product of Array Except Self](Problems/238-productExceptSelf/) - `Medium`
 
 ### Prefix Sums
 
-- [238. Product of Array Except Self](Problems/238-productExceptSelf/)
+- [238. Product of Array Except Self](Problems/238-productExceptSelf/) - `Medium`
