@@ -20,13 +20,7 @@
 
 {Step-by-step breakdown of the approach}
 
-## Optimization
-
-- Instead of creating prefix and postfix arrays, first fill the `result` array with prefixes, and then iterate from the end of `nums`, keeping track of postfix and multiplying postfix with `result[i]`
-
 ## Time and Space Complexity
-
-### Standard Solution
 
 | Metric | Complexity           |
 | ------ | -------------------- |

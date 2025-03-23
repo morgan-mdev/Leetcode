@@ -6,8 +6,9 @@ This repository contains my LeetCode solutions with explanations, grouped by dif
 
 ## Easy Problems:
 
-| #   | Problem | Topics |
-| --- | ------- | ------ |
+| #                                      | Problem                                               | Topics              |
+| -------------------------------------- | ----------------------------------------------------- | ------------------- |
+| [217](Problems/217-containsDuplicate/) | [Contains Duplicate](Problems/217-containsDuplicate/) | [`Arrays`](#arrays) |
 
 ## Medium Problems:
 
@@ -26,6 +27,7 @@ This repository contains my LeetCode solutions with explanations, grouped by dif
 
 ### Arrays
 
+- [217. Contains Duplicate](Problems/217-containsDuplicate/) - `Easy`
 - [238. Product of Array Except Self](Problems/238-productExceptSelf/) - `Medium`
 
 ### Prefix Sums
