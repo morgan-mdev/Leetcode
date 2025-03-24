@@ -19,6 +19,7 @@ This repository contains my LeetCode solutions with explanations, grouped by dif
 | [238](Problems/238-productExceptSelf/)  | [Product of Array Except Self](Problems/238-productExceptSelf/)  | [`Array`](#array), [`Prefix Sum`](#prefix-sum)     |
 | [128](Problems/128-longestConsecutive/) | [Longest Consecutive Sequence](Problems/128-longestConsecutive/) | [`Array`](#array), [`Hash Set`](#hash-set)         |
 | [15](Problems/15-3Sum/)                 | [3Sum](Problems/15-3Sum/)                                        | [`Array`](#array), [`Two Pointers`](#two-pointers) |
+| [11](Problems/11-maxArea/)              | [Container With Most Water](Problems/11-maxArea/)                | [`Array`](#array), [`Two Pointers`](#two-pointers) |
 
 ## Hard Problems:
 
@@ -35,6 +36,7 @@ This repository contains my LeetCode solutions with explanations, grouped by dif
 - [238. Product of Array Except Self](Problems/238-productExceptSelf/) - `Medium`
 - [128. Longest Consecutive Sequence](Problems/128-longestConsecutive/) - `Medium`
 - [15. 3Sum](Problems/15-3Sum/) - `Medium`
+- [11. Container With Most Water](Problems/11-maxArea/) - `Medium`
 
 ### Prefix Sum
 
@@ -49,3 +51,4 @@ This repository contains my LeetCode solutions with explanations, grouped by dif
 - [125. Valid Palindrome](Problems/125-validPalindrome/) - `Easy`
 - [167. Two Sum II - Input Array Is Sorted](Problems/167-twoSum2/) - `Easy`
 - [15. 3Sum](Problems/15-3Sum/) - `Medium`
+- [11. Container With Most Water](Problems/11-maxArea/) - `Medium`

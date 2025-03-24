@@ -52,7 +52,7 @@ The distinct triplets are `[-1,0,1]` and `[-1,-1,2]`. Notice that the order of t
    - Move the right pointer to the left if the sum is greater than 0
    - Move the left pointer to the right if the sum is less than 0
    - If the sum is 0, add the triplet to the result list
-4. Move left pointer to the right and keep moving the left pointer until we find a different number
+4. Move the left pointer to the right and keep moving the left pointer until we find a different number
 5. Repeat from step 3 until `l < r`
 
 ## Time and Space Complexity
@@ -72,5 +72,5 @@ The distinct triplets are `[-1,0,1]` and `[-1,-1,2]`. Notice that the order of t
 
 ## Key Takeaways
 
-- Sorting the array helps in avoiding duplicates
-- The two pointer technique significantly reduces time complexity compared to a brute force approach
+- Sorting the array helps avoid duplicates
+- The two-pointer technique significantly reduces time complexity compared to a brute force approach
